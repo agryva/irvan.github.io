@@ -1,0 +1,54 @@
+body {
+    /*    font-size: 1.8em;*/
+    line-height: 1.875;
+    font: 13px/23px "Raleway", Arial, sans-serif;
+    font-weight: 400;
+    color: #555;
+    text-transform: capitalize;
+    background-color: #eeeeee;
+}
+
+.card {
+    width: 400px;
+    background-color: white;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.4);
+    border-radius: 2px;
+    padding: 1em;
+    margin: 2em auto;
+}
+
+.avatar {
+    padding: 1em 1em 2em 1em;
+}
+
+.img {
+    background-image: url('../irvan.jpg');
+    width: 115px;
+    height: 115px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-size: cover;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+}
+
+.card-text {
+    margin: 1em 0;
+}
+
+.desc {
+    margin: 1em 0;
+}
+
+.school .col-2 {
+    padding: 0px 12px
+}
+
+.margin {
+    margin: 10px 0px;
+}
+
+.logo {
+    border: 1px solid #b1b1b1;
+    height: 25px;
+    border-radius: 15px;
+}
